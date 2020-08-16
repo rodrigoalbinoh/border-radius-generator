@@ -27,9 +27,9 @@ export const ConfigsContent = styled.div`
 
   form {
     div {
-      display: flex;
-      justify-content: space-between;
+      display: inline-block;
       margin-bottom: 15px;
+      width: 100%;
 
       label {
         margin-right: 5px;
@@ -42,12 +42,10 @@ export const ConfigsContent = styled.div`
         border: 1px solid #ff79c6;
         padding: 5px;
         color: #fff;
+        width: 100%;
       }
 
       @media only screen and (max-width: 425px) {
-        display: inline-block;
-        width: 100%;
-
         input {
           width: 100%;
           margin-top: 5px;
