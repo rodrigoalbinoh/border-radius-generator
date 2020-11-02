@@ -13,8 +13,6 @@ Border Radius Generator
   <a href="https://github.com/rodrigoalbinoh/teste-frontend-mercos/commits/master">
     <img src="https://img.shields.io/github/commit-activity/m/rodrigoalbinoh/teste-frontend-mercos" alt="Commit Activity per Month">
   </a>
-  
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/1687c39e-40c0-48ad-a0da-ddca35332080/deploy-status)](https://app.netlify.com/sites/competent-morse-6b02da/deploys)
 </p>
 
 ## Features
